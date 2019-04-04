@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MergeDataModels.cs](./CS/App_Code/MergeDataModels.cs) (VB: [MergeDataModels.vb](./VB/App_Code/MergeDataModels.vb))
-* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxRichEdit - How to change the Mail Merge data sources at runtime
